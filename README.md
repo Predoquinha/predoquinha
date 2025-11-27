@@ -1,3 +1,4 @@
+![c59ad2bd4ad2fbacd04017debc679ddb](https://github.com/user-attachments/assets/1adaaade-479f-4ad3-a707-8d5ee8c01aca)
 
 # 💻 Pedro Henrico Rodrigues do Vale
 

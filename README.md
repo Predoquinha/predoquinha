@@ -8,7 +8,7 @@ e agora, estarei me dedicando para poder se inteirar na área de programação,
 mais especificamente na linguagem Python.
 
 
-# Aprendendo
+# 📖 Aprendendo
 
 **Linguagem de programação**
 

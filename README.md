@@ -3,7 +3,7 @@
 # 💻 Pedro Henrico Rodrigues do Vale
 
 Olá, me chamo Pedro Henrico, tenho 21 anos, e tenho a ampla vontade de
-conhecer mais do mundo da tecnologia. Tenho afinidade com computadores desde a minha infância,                  ![ghostedvpn-hacker-cat](https://github.com/user-attachments/assets/061cc9ee-f108-4193-9f8a-19e79c288117)
+conhecer mais do mundo da tecnologia. Tenho afinidade com computadores desde a minha infância,
 e agora, estarei me dedicando para poder se inteirar na área de programação, 
 mais especificamente na linguagem Python.
 

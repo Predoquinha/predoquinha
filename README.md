@@ -4,7 +4,7 @@
 
 Olá, me chamo Pedro Henrico, tenho 21 anos, e tenho a ampla vontade de
 conhecer mais do mundo da tecnologia. Tenho afinidade com computadores desde a minha infância,
-e agora, estarei me dedicando para poder se inteirar na área de programação, 
+e agora, vou me dedicar para me aprofundar na área de programação, 
 mais especificamente na linguagem Python.
 
 
